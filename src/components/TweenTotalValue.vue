@@ -57,7 +57,7 @@ export default {
         if (isNaN(tweenVal.tweeningValue)){
             vm.tweeningValue = 0
         }else{
-            vm.tweeningValue = (tweenVal.tweeningValue.toFixed(2)).toLocaleString()      
+            vm.tweeningValue = (tweenVal.tweeningValue.toFixed(2))    
         }
         
       })
