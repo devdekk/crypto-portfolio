@@ -2,4 +2,4 @@
 
 Fetch and run 'npm install' to get node modules.
 
-Run 'npm run dev' to run locally at localhost:8080.
+Run 'npm run dev' to run on localhost:8080.
